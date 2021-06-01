@@ -1,5 +1,5 @@
 # DropzoneUpload
-# Título do projeto
+# Upload de vários arquivos ao mesmo tempo.
 
 Este tem projeto te a finalidade de mostra, uma forma de como fazer um upload com vários arquivos de uma só vez, utilizando a funcionalidade Dropzone
 
